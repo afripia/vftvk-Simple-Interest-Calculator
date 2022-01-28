@@ -18,3 +18,7 @@ h1{color:grey;font-family:verdana}
     width: 100px;
     display: inline-block;
 }
+
+.hilightText {
+    background-color: yellow;
+}
