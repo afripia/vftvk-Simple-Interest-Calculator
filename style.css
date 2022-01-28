@@ -3,8 +3,18 @@ h1{color:grey;font-family:verdana}
 .maindiv {
     background-color: white;
     color: black;
-    width: 300px;
+    width: 475px;
     padding: 20px;
     border-radius: 25px;
     margin: 0 auto;
+}
+
+.maindiv .form {
+    width: 345px;
+    margin: 0 auto;
+}
+
+#amountLbl, #rateLbl, #rate_val, #yearsLbl {
+    width: 100px;
+    display: inline-block;
 }
